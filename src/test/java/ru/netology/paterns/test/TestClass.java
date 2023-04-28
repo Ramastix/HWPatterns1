@@ -25,7 +25,7 @@ public class TestClass {
 
     @AfterAll
     static void tearDownAll(){
-        SelenideLogger.removeListener("allure");
+        SelenideLogger.removeListener("allure");;
     }
     @BeforeEach
     void setup() {open("http://localhost:9999/");}
