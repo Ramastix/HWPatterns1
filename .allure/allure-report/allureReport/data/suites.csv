@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Apr 28 09:26:48 MSK 2023","Fri Apr 28 09:26:57 MSK 2023","9489","","ru.netology.paterns.test.TestClass","","ru.netology.paterns.test.TestClass","testTransferAppointmentDate","testTransferAppointmentDate()",""
